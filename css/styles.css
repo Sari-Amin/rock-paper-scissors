@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+    border: solid 2px white;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.output{
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
